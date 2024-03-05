@@ -1,0 +1,16 @@
+{
+  "name": "07-demo-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio-01.js",
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
